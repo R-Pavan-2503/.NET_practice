@@ -1,0 +1,14 @@
+D:\ups\dotenv_pratice\whileLoop\bin\Debug\net9.0\whileLoop.exe
+D:\ups\dotenv_pratice\whileLoop\bin\Debug\net9.0\whileLoop.deps.json
+D:\ups\dotenv_pratice\whileLoop\bin\Debug\net9.0\whileLoop.runtimeconfig.json
+D:\ups\dotenv_pratice\whileLoop\bin\Debug\net9.0\whileLoop.dll
+D:\ups\dotenv_pratice\whileLoop\bin\Debug\net9.0\whileLoop.pdb
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.AssemblyInfo.cs
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.dll
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\refint\whileLoop.dll
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.pdb
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.genruntimeconfig.cache
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\ref\whileLoop.dll

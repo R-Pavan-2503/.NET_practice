@@ -1,0 +1,14 @@
+D:\ups\dotenv_pratice\array\bin\Debug\net9.0\array.exe
+D:\ups\dotenv_pratice\array\bin\Debug\net9.0\array.deps.json
+D:\ups\dotenv_pratice\array\bin\Debug\net9.0\array.runtimeconfig.json
+D:\ups\dotenv_pratice\array\bin\Debug\net9.0\array.dll
+D:\ups\dotenv_pratice\array\bin\Debug\net9.0\array.pdb
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.AssemblyInfo.cs
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.dll
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\refint\array.dll
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.pdb
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\array.genruntimeconfig.cache
+D:\ups\dotenv_pratice\array\obj\Debug\net9.0\ref\array.dll

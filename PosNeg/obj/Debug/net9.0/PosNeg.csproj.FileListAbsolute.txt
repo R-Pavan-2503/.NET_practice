@@ -1,0 +1,14 @@
+D:\ups\dotenv_pratice\PosNeg\bin\Debug\net9.0\PosNeg.exe
+D:\ups\dotenv_pratice\PosNeg\bin\Debug\net9.0\PosNeg.deps.json
+D:\ups\dotenv_pratice\PosNeg\bin\Debug\net9.0\PosNeg.runtimeconfig.json
+D:\ups\dotenv_pratice\PosNeg\bin\Debug\net9.0\PosNeg.dll
+D:\ups\dotenv_pratice\PosNeg\bin\Debug\net9.0\PosNeg.pdb
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.AssemblyInfo.cs
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.dll
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\refint\PosNeg.dll
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.pdb
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.genruntimeconfig.cache
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\ref\PosNeg.dll
