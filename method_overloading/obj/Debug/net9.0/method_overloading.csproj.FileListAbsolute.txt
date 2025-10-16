@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\method_overloading\bin\Debug\net9.0\method_overloading.exe
+D:\ups\dotenv_pratice\method_overloading\bin\Debug\net9.0\method_overloading.deps.json
+D:\ups\dotenv_pratice\method_overloading\bin\Debug\net9.0\method_overloading.runtimeconfig.json
+D:\ups\dotenv_pratice\method_overloading\bin\Debug\net9.0\method_overloading.dll
+D:\ups\dotenv_pratice\method_overloading\bin\Debug\net9.0\method_overloading.pdb
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.AssemblyInfo.cs
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.sourcelink.json
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.dll
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\refint\method_overloading.dll
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.pdb
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\method_overloading.genruntimeconfig.cache
+D:\ups\dotenv_pratice\method_overloading\obj\Debug\net9.0\ref\method_overloading.dll
