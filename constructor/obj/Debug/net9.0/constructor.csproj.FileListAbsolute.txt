@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\constructor\bin\Debug\net9.0\constructor.exe
+D:\ups\dotenv_pratice\constructor\bin\Debug\net9.0\constructor.deps.json
+D:\ups\dotenv_pratice\constructor\bin\Debug\net9.0\constructor.runtimeconfig.json
+D:\ups\dotenv_pratice\constructor\bin\Debug\net9.0\constructor.dll
+D:\ups\dotenv_pratice\constructor\bin\Debug\net9.0\constructor.pdb
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.AssemblyInfo.cs
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.sourcelink.json
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.dll
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\refint\constructor.dll
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.pdb
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\constructor.genruntimeconfig.cache
+D:\ups\dotenv_pratice\constructor\obj\Debug\net9.0\ref\constructor.dll

@@ -12,6 +12,7 @@
             object ob1 = x;
             object ob2 = y;
             object ob3 = name;
+            Console.WriteLine(ob1);
 
             //unboxing
             int x1 = (Int32)ob1;

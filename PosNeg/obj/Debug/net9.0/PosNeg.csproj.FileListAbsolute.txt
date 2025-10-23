@@ -12,3 +12,4 @@ D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\refint\PosNeg.dll
 D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.pdb
 D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.genruntimeconfig.cache
 D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\ref\PosNeg.dll
+D:\ups\dotenv_pratice\PosNeg\obj\Debug\net9.0\PosNeg.sourcelink.json

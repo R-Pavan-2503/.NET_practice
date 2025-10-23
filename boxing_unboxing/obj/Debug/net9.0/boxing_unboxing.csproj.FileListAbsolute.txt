@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\boxing_unboxing\bin\Debug\net9.0\boxing_unboxing.exe
+D:\ups\dotenv_pratice\boxing_unboxing\bin\Debug\net9.0\boxing_unboxing.deps.json
+D:\ups\dotenv_pratice\boxing_unboxing\bin\Debug\net9.0\boxing_unboxing.runtimeconfig.json
+D:\ups\dotenv_pratice\boxing_unboxing\bin\Debug\net9.0\boxing_unboxing.dll
+D:\ups\dotenv_pratice\boxing_unboxing\bin\Debug\net9.0\boxing_unboxing.pdb
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.AssemblyInfo.cs
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.sourcelink.json
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.dll
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\refint\boxing_unboxing.dll
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.pdb
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\boxing_unboxing.genruntimeconfig.cache
+D:\ups\dotenv_pratice\boxing_unboxing\obj\Debug\net9.0\ref\boxing_unboxing.dll

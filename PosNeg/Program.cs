@@ -10,6 +10,10 @@ namespace PosNeg
     class Program
     {
 
+        static void print()
+        {
+            Console.WriteLine("Hello World");
+        }
         public void check(int n)
         {
             if (n > 0)
@@ -32,3 +36,4 @@ namespace PosNeg
         }
     }
 }
+

@@ -51,15 +51,22 @@
         static void Main(string[] args)
         {
             int emp;
-            string name;
+            string name = "";
             double basic;
 
             emp = 101;
 
             Program obj = new Program();
-            obj.show(emp, out name, out basic);
+            obj.show(emp, ref name, out basic);
             Console.WriteLine("Employee Name: " + name);
             Console.WriteLine("Employee Basic Salary: " + basic);
+
+            obj.show1(emp);
+            var res = obj.show1(emp);
+            Type type = res.GetType();
+            Console.WriteLine("Type Name: " + type.Name);
+            Console.WriteLine("Employee Name: " + res.name);
+            Console.WriteLine("Employee Basic Salary: " + res.basic);
 
         }
 

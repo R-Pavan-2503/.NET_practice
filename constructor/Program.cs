@@ -15,6 +15,8 @@
         }
         static void Main(string[] args)
         {
+            Program obj = new Program();
+            
 
         }
     }

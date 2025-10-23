@@ -12,3 +12,4 @@ D:\ups\dotenv_pratice\out\obj\Debug\net9.0\refint\out.dll
 D:\ups\dotenv_pratice\out\obj\Debug\net9.0\out.pdb
 D:\ups\dotenv_pratice\out\obj\Debug\net9.0\out.genruntimeconfig.cache
 D:\ups\dotenv_pratice\out\obj\Debug\net9.0\ref\out.dll
+D:\ups\dotenv_pratice\out\obj\Debug\net9.0\out.sourcelink.json
