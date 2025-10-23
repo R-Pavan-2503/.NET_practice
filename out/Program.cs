@@ -19,6 +19,7 @@
             {
                 name = "Kathy";
                 basic = 25000;
+                int emp = 500;
             }
 
             return true;
