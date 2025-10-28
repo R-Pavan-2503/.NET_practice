@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.AssemblyInfo.cs
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.sourcelink.json
+D:\ups\dotenv_pratice\taxiBookingGemini\bin\Debug\net9.0\taxiBookingGemini.exe
+D:\ups\dotenv_pratice\taxiBookingGemini\bin\Debug\net9.0\taxiBookingGemini.deps.json
+D:\ups\dotenv_pratice\taxiBookingGemini\bin\Debug\net9.0\taxiBookingGemini.runtimeconfig.json
+D:\ups\dotenv_pratice\taxiBookingGemini\bin\Debug\net9.0\taxiBookingGemini.dll
+D:\ups\dotenv_pratice\taxiBookingGemini\bin\Debug\net9.0\taxiBookingGemini.pdb
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.dll
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\refint\taxiBookingGemini.dll
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.pdb
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\taxiBookingGemini.genruntimeconfig.cache
+D:\ups\dotenv_pratice\taxiBookingGemini\obj\Debug\net9.0\ref\taxiBookingGemini.dll

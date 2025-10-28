@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\taxiBookingGPT\bin\Debug\net9.0\taxiBookingGPT.exe
+D:\ups\dotenv_pratice\taxiBookingGPT\bin\Debug\net9.0\taxiBookingGPT.deps.json
+D:\ups\dotenv_pratice\taxiBookingGPT\bin\Debug\net9.0\taxiBookingGPT.runtimeconfig.json
+D:\ups\dotenv_pratice\taxiBookingGPT\bin\Debug\net9.0\taxiBookingGPT.dll
+D:\ups\dotenv_pratice\taxiBookingGPT\bin\Debug\net9.0\taxiBookingGPT.pdb
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.AssemblyInfo.cs
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.sourcelink.json
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.dll
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\refint\taxiBookingGPT.dll
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.pdb
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\taxiBookingGPT.genruntimeconfig.cache
+D:\ups\dotenv_pratice\taxiBookingGPT\obj\Debug\net9.0\ref\taxiBookingGPT.dll

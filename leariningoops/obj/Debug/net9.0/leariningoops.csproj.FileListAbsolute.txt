@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\leariningoops\bin\Debug\net9.0\leariningoops.exe
+D:\ups\dotenv_pratice\leariningoops\bin\Debug\net9.0\leariningoops.deps.json
+D:\ups\dotenv_pratice\leariningoops\bin\Debug\net9.0\leariningoops.runtimeconfig.json
+D:\ups\dotenv_pratice\leariningoops\bin\Debug\net9.0\leariningoops.dll
+D:\ups\dotenv_pratice\leariningoops\bin\Debug\net9.0\leariningoops.pdb
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.AssemblyInfo.cs
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.sourcelink.json
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.dll
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\refint\leariningoops.dll
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.pdb
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\leariningoops.genruntimeconfig.cache
+D:\ups\dotenv_pratice\leariningoops\obj\Debug\net9.0\ref\leariningoops.dll

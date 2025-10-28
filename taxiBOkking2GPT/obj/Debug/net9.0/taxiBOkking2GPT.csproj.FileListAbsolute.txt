@@ -1,0 +1,5 @@
+D:\ups\dotenv_pratice\taxiBOkking2GPT\obj\Debug\net9.0\taxiBOkking2GPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\taxiBOkking2GPT\obj\Debug\net9.0\taxiBOkking2GPT.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\taxiBOkking2GPT\obj\Debug\net9.0\taxiBOkking2GPT.AssemblyInfo.cs
+D:\ups\dotenv_pratice\taxiBOkking2GPT\obj\Debug\net9.0\taxiBOkking2GPT.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\taxiBOkking2GPT\obj\Debug\net9.0\taxiBOkking2GPT.sourcelink.json

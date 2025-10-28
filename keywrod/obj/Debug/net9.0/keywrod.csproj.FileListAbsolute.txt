@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\keywrod\bin\Debug\net9.0\keywrod.exe
+D:\ups\dotenv_pratice\keywrod\bin\Debug\net9.0\keywrod.deps.json
+D:\ups\dotenv_pratice\keywrod\bin\Debug\net9.0\keywrod.runtimeconfig.json
+D:\ups\dotenv_pratice\keywrod\bin\Debug\net9.0\keywrod.dll
+D:\ups\dotenv_pratice\keywrod\bin\Debug\net9.0\keywrod.pdb
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.AssemblyInfo.cs
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.sourcelink.json
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.dll
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\refint\keywrod.dll
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.pdb
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\keywrod.genruntimeconfig.cache
+D:\ups\dotenv_pratice\keywrod\obj\Debug\net9.0\ref\keywrod.dll
