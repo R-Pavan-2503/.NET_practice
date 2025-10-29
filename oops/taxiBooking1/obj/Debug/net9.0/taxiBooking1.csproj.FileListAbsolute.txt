@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.AssemblyInfo.cs
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.sourcelink.json
+D:\ups\dotenv_pratice\oops\taxiBooking1\bin\Debug\net9.0\taxiBooking1.exe
+D:\ups\dotenv_pratice\oops\taxiBooking1\bin\Debug\net9.0\taxiBooking1.deps.json
+D:\ups\dotenv_pratice\oops\taxiBooking1\bin\Debug\net9.0\taxiBooking1.runtimeconfig.json
+D:\ups\dotenv_pratice\oops\taxiBooking1\bin\Debug\net9.0\taxiBooking1.dll
+D:\ups\dotenv_pratice\oops\taxiBooking1\bin\Debug\net9.0\taxiBooking1.pdb
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.dll
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\refint\taxiBooking1.dll
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.pdb
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\taxiBooking1.genruntimeconfig.cache
+D:\ups\dotenv_pratice\oops\taxiBooking1\obj\Debug\net9.0\ref\taxiBooking1.dll

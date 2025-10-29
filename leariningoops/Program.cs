@@ -4,25 +4,15 @@ using System.Linq;
 
 namespace LearningOOPs
 {
-    
-    
-    
-
-    
     public interface IHasId
     {
         int Id { get; set; }
     }
 
-    
     public interface IDisplayable
     {
         string GetDetails();
     }
-
-    
-    
-    
     class Person : IHasId, IDisplayable
     {
         public int Id { get; set; }
@@ -39,10 +29,6 @@ namespace LearningOOPs
             return $"ID: {Id}, Name: {Name}";
         }
     }
-
-    
-    
-    
     class Doctor : Person
     {
         public string Specialty { get; set; }
@@ -75,9 +61,9 @@ namespace LearningOOPs
         }
     }
 
-    
-    
-    
+
+
+
     class EntityManager<T> where T : IHasId, IDisplayable
     {
         private List<T> _items = new List<T>();
@@ -101,9 +87,9 @@ namespace LearningOOPs
         }
     }
 
-    
-    
-    
+
+
+
     class Appointment : IDisplayable
     {
         public Doctor Doctor { get; set; }
@@ -124,9 +110,9 @@ namespace LearningOOPs
         }
     }
 
-    
-    
-    
+
+
+
     class AppointmentManager
     {
         private List<Appointment> _appointments = new List<Appointment>();
@@ -175,14 +161,14 @@ namespace LearningOOPs
         }
     }
 
-    
-    
-    
+
+
+
     class Program
     {
         static void Main(string[] args)
         {
-            
+
             EntityManager<Doctor> doctorManager = new EntityManager<Doctor>();
             doctorManager.Add(new Doctor(1, "Dr. Smith", "Cardiology"));
             doctorManager.Add(new Doctor(2, "Dr. Johnson", "Neurology"));
@@ -191,7 +177,7 @@ namespace LearningOOPs
             Console.WriteLine("List of Doctors:");
             doctorManager.ShowAll();
 
-            
+
             EntityManager<Patient> patientManager = new EntityManager<Patient>();
             patientManager.Add(new Patient(1, "Alice", 30));
             patientManager.Add(new Patient(2, "Bob", 45));
@@ -200,7 +186,7 @@ namespace LearningOOPs
             Console.WriteLine("\nList of Patients:");
             patientManager.ShowAll();
 
-            
+
             AppointmentManager appointmentManager = new AppointmentManager();
 
             Console.WriteLine("\nBooking Appointments...");

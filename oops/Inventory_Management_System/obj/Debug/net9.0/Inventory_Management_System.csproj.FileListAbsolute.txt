@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\bin\Debug\net9.0\Inventory_Management_System.exe
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\bin\Debug\net9.0\Inventory_Management_System.deps.json
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\bin\Debug\net9.0\Inventory_Management_System.runtimeconfig.json
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\bin\Debug\net9.0\Inventory_Management_System.dll
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\bin\Debug\net9.0\Inventory_Management_System.pdb
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.AssemblyInfo.cs
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.sourcelink.json
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.dll
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\refint\Inventory_Management_System.dll
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.pdb
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\Inventory_Management_System.genruntimeconfig.cache
+D:\ups\dotenv_pratice\oops\Inventory_Management_System\obj\Debug\net9.0\ref\Inventory_Management_System.dll
