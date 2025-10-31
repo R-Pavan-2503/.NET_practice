@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.AssemblyInfo.cs
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.sourcelink.json
+D:\ups\dotenv_pratice\partial\bin\Debug\net9.0\partial.exe
+D:\ups\dotenv_pratice\partial\bin\Debug\net9.0\partial.deps.json
+D:\ups\dotenv_pratice\partial\bin\Debug\net9.0\partial.runtimeconfig.json
+D:\ups\dotenv_pratice\partial\bin\Debug\net9.0\partial.dll
+D:\ups\dotenv_pratice\partial\bin\Debug\net9.0\partial.pdb
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.dll
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\refint\partial.dll
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.pdb
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\partial.genruntimeconfig.cache
+D:\ups\dotenv_pratice\partial\obj\Debug\net9.0\ref\partial.dll

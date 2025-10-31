@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\static_member\bin\Debug\net9.0\static_member.exe
+D:\ups\dotenv_pratice\static_member\bin\Debug\net9.0\static_member.deps.json
+D:\ups\dotenv_pratice\static_member\bin\Debug\net9.0\static_member.runtimeconfig.json
+D:\ups\dotenv_pratice\static_member\bin\Debug\net9.0\static_member.dll
+D:\ups\dotenv_pratice\static_member\bin\Debug\net9.0\static_member.pdb
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.AssemblyInfo.cs
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.sourcelink.json
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.dll
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\refint\static_member.dll
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.pdb
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\static_member.genruntimeconfig.cache
+D:\ups\dotenv_pratice\static_member\obj\Debug\net9.0\ref\static_member.dll

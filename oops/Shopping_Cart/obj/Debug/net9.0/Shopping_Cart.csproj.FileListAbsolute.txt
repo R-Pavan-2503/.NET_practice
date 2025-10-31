@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.AssemblyInfo.cs
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.sourcelink.json
+D:\ups\dotenv_pratice\oops\Shopping_Cart\bin\Debug\net9.0\Shopping_Cart.exe
+D:\ups\dotenv_pratice\oops\Shopping_Cart\bin\Debug\net9.0\Shopping_Cart.deps.json
+D:\ups\dotenv_pratice\oops\Shopping_Cart\bin\Debug\net9.0\Shopping_Cart.runtimeconfig.json
+D:\ups\dotenv_pratice\oops\Shopping_Cart\bin\Debug\net9.0\Shopping_Cart.dll
+D:\ups\dotenv_pratice\oops\Shopping_Cart\bin\Debug\net9.0\Shopping_Cart.pdb
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.dll
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\refint\Shopping_Cart.dll
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.pdb
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\Shopping_Cart.genruntimeconfig.cache
+D:\ups\dotenv_pratice\oops\Shopping_Cart\obj\Debug\net9.0\ref\Shopping_Cart.dll

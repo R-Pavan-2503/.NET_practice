@@ -1,0 +1,16 @@
+@Employee.API_HostAddress = http://localhost:5029
+
+### (Test GET) Get all employees
+GET {{Employee.API_HostAddress}}/api/employees/
+Accept: application/json
+
+### (Test CREATE) Create a new employee
+POST {{Employee.API_HostAddress}}/api/employees/
+Content-Type: application/json
+
+{
+  "firstName": "Saanvi",
+  "lastName": "Patel",
+  "position": "Software Engineer",
+  "email": "saanvi.patel@example.com"
+}
