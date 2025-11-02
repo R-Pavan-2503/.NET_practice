@@ -12,3 +12,4 @@ D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\refint\whileLoop.dll
 D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.pdb
 D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.genruntimeconfig.cache
 D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\ref\whileLoop.dll
+D:\ups\dotenv_pratice\whileLoop\obj\Debug\net9.0\whileLoop.sourcelink.json
