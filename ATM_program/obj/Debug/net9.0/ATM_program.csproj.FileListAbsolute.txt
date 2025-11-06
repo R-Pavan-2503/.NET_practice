@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\ATM_program\bin\Debug\net9.0\ATM_program.exe
+D:\ups\dotenv_pratice\ATM_program\bin\Debug\net9.0\ATM_program.deps.json
+D:\ups\dotenv_pratice\ATM_program\bin\Debug\net9.0\ATM_program.runtimeconfig.json
+D:\ups\dotenv_pratice\ATM_program\bin\Debug\net9.0\ATM_program.dll
+D:\ups\dotenv_pratice\ATM_program\bin\Debug\net9.0\ATM_program.pdb
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.AssemblyInfo.cs
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.sourcelink.json
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.dll
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\refint\ATM_program.dll
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.pdb
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ATM_program.genruntimeconfig.cache
+D:\ups\dotenv_pratice\ATM_program\obj\Debug\net9.0\ref\ATM_program.dll

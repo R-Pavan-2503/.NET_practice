@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.AssemblyInfo.cs
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.sourcelink.json
+D:\ups\dotenv_pratice\Student_grade\bin\Debug\net9.0\Student_grade.exe
+D:\ups\dotenv_pratice\Student_grade\bin\Debug\net9.0\Student_grade.deps.json
+D:\ups\dotenv_pratice\Student_grade\bin\Debug\net9.0\Student_grade.runtimeconfig.json
+D:\ups\dotenv_pratice\Student_grade\bin\Debug\net9.0\Student_grade.dll
+D:\ups\dotenv_pratice\Student_grade\bin\Debug\net9.0\Student_grade.pdb
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.dll
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\refint\Student_grade.dll
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.pdb
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\Student_grade.genruntimeconfig.cache
+D:\ups\dotenv_pratice\Student_grade\obj\Debug\net9.0\ref\Student_grade.dll

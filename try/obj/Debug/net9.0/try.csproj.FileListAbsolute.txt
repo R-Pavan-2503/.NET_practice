@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.AssemblyInfo.cs
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.sourcelink.json
+D:\ups\dotenv_pratice\try\bin\Debug\net9.0\try.exe
+D:\ups\dotenv_pratice\try\bin\Debug\net9.0\try.deps.json
+D:\ups\dotenv_pratice\try\bin\Debug\net9.0\try.runtimeconfig.json
+D:\ups\dotenv_pratice\try\bin\Debug\net9.0\try.dll
+D:\ups\dotenv_pratice\try\bin\Debug\net9.0\try.pdb
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.dll
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\refint\try.dll
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.pdb
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\try.genruntimeconfig.cache
+D:\ups\dotenv_pratice\try\obj\Debug\net9.0\ref\try.dll
