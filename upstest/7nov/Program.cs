@@ -1,0 +1,8 @@
+﻿namespace Try
+{
+
+    class C
+    {
+        
+    }
+}

@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.AssemblyInfo.cs
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.sourcelink.json
+D:\ups\dotenv_pratice\upstest\7nov\bin\Debug\net9.0\7nov.exe
+D:\ups\dotenv_pratice\upstest\7nov\bin\Debug\net9.0\7nov.deps.json
+D:\ups\dotenv_pratice\upstest\7nov\bin\Debug\net9.0\7nov.runtimeconfig.json
+D:\ups\dotenv_pratice\upstest\7nov\bin\Debug\net9.0\7nov.dll
+D:\ups\dotenv_pratice\upstest\7nov\bin\Debug\net9.0\7nov.pdb
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.dll
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\refint\7nov.dll
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.pdb
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\7nov.genruntimeconfig.cache
+D:\ups\dotenv_pratice\upstest\7nov\obj\Debug\net9.0\ref\7nov.dll
