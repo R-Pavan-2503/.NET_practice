@@ -63,6 +63,9 @@
 // }
 
 
+
+
+
 using System;
 using Google.OrTools.Init;
 using Google.OrTools.LinearSolver;
@@ -82,6 +85,7 @@ public class BasicExample
         }
 
         // Create the variables x and y.
+        Console.WriteLine("hello");
         Variable x = solver.MakeNumVar(0.0, 1.0, "x");
         Variable y = solver.MakeNumVar(0.0, 2.0, "y");
 
