@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\quiz\bin\Debug\net9.0\quiz.exe
+D:\ups\dotenv_pratice\quiz\bin\Debug\net9.0\quiz.deps.json
+D:\ups\dotenv_pratice\quiz\bin\Debug\net9.0\quiz.runtimeconfig.json
+D:\ups\dotenv_pratice\quiz\bin\Debug\net9.0\quiz.dll
+D:\ups\dotenv_pratice\quiz\bin\Debug\net9.0\quiz.pdb
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.AssemblyInfo.cs
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.sourcelink.json
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.dll
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\refint\quiz.dll
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.pdb
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\quiz.genruntimeconfig.cache
+D:\ups\dotenv_pratice\quiz\obj\Debug\net9.0\ref\quiz.dll
