@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\Test\bin\Debug\net9.0\Test.exe
+D:\ups\dotenv_pratice\Test\bin\Debug\net9.0\Test.deps.json
+D:\ups\dotenv_pratice\Test\bin\Debug\net9.0\Test.runtimeconfig.json
+D:\ups\dotenv_pratice\Test\bin\Debug\net9.0\Test.dll
+D:\ups\dotenv_pratice\Test\bin\Debug\net9.0\Test.pdb
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.AssemblyInfo.cs
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.sourcelink.json
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.dll
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\refint\Test.dll
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.pdb
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
+D:\ups\dotenv_pratice\Test\obj\Debug\net9.0\ref\Test.dll
