@@ -1,8 +1,4 @@
-﻿namespace Try
+﻿using namespace Name
 {
-
-    class C
-    {
-        
-    }
+    
 }

@@ -1,0 +1,15 @@
+D:\ups\dotenv_pratice\upstest\17mov\bin\Debug\net9.0\17mov.exe
+D:\ups\dotenv_pratice\upstest\17mov\bin\Debug\net9.0\17mov.deps.json
+D:\ups\dotenv_pratice\upstest\17mov\bin\Debug\net9.0\17mov.runtimeconfig.json
+D:\ups\dotenv_pratice\upstest\17mov\bin\Debug\net9.0\17mov.dll
+D:\ups\dotenv_pratice\upstest\17mov\bin\Debug\net9.0\17mov.pdb
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.GeneratedMSBuildEditorConfig.editorconfig
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.AssemblyInfoInputs.cache
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.AssemblyInfo.cs
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.csproj.CoreCompileInputs.cache
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.sourcelink.json
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.dll
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\refint\17mov.dll
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.pdb
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\17mov.genruntimeconfig.cache
+D:\ups\dotenv_pratice\upstest\17mov\obj\Debug\net9.0\ref\17mov.dll
